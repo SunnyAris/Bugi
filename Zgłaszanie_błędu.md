@@ -44,3 +44,5 @@ Krótki opis tego, jak po wykonaniu opisanych wyżej kroków aplikacja powinna s
 
 ### Załączniki
 Wszelkiego rodzaju zrzuty ekranu, filmiki, logi z konsoli, wszystko to, co może pomóc w określeniu miejsca, gdzie dany błąd występuję i co jest jego przyczyną.
+
+![Alt text](b%C5%82%C4%85d.png)
