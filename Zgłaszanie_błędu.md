@@ -36,7 +36,7 @@ Krótki, konkretny, pomoże zdobyć szybką informację na temat tego, o co chod
 Dokładnie opisana instrukcja krok po kroku, co należy zrobić, aby dany błąd wystąpił, jest ogromnym ułatwieniem zarówno dla programistów, jak i testerów, którzy będą testować poprawiony błąd. Dobą praktyką jest wykorzystywanie kroków zawartych w często powtarzających się błędach do napisania do nich Test Cases i dzięki temu obszar narażony na występowanie w nim poważnych błędów może być sprawdzany cyklicznie np. w ramach regresji.
 
 
-### Obecny rezultat
+### Rzeczywisty rezultat
 Czyli wytłumaczenie co dokładnie jest dla nas błędem, czy pokazujący się nadmierny komunikat, czy też może brak walidacji na polu itp.
 
 ### Oczekiwany rezultat
