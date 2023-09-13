@@ -10,11 +10,10 @@ Brak możliwości wyboru miejscowości w aplikacji portal pasażera
 High
 
 ### Środowisko / Wersja / Zespół / Urządzenie
-
-produkcyjne
-2.0
--
-samsung galaxy
+ 
+- produkcyjne  
+- wersja 3.4.50 
+- samsung galaxy a51
 
 ### Opis 
 Po otwarciu aplikacji pojawia się strona główna. Przy próbie wpisania stacji początkowej i końcowej pojawia się błąd. Po kliknięciu w miejsce wyszukiwania pojawia się zakładka Wyszukaj Stację, ale nie pojawiają się proponowane miejscowości oraz nie pojawiają się ostatnio wyszukiwane miejscowości.
@@ -50,10 +49,9 @@ High
 
 ### Środowisko / Wersja / Zespół / Urządzenie
 
-produkcyjne
-2.0
--
-samsung galaxy
+- produkcyjne  
+- wersja 3.4.50 
+- samsung galaxy
 
 ### Opis 
 Po otwarciu aplikacji pojawia się strona główna. Przy próbie wpisania stacji początkowej i końcowej pojawia się błąd. Po wpisaniu miejsowości i kliknięciu lupki pojawia się pusta strona. Jedyny spósób na wyszukanie trasy to ustawienie wyszukiwania szybkiego połączenia. 
