@@ -1,9 +1,9 @@
-## Zgłoszenie 1. Błąd portal pasarzera
+## Zgłoszenie 1. Błąd Portal Pasażera
 
 
 ### Tytuł 
 
-Brak możliwości wyboru miejscowości w aplikacji portal pasażera
+Brak możliwości wyboru miejscowości w aplikacji Portal Pasażera
 
 ### Priorytet
 
@@ -32,7 +32,7 @@ Powinny pojawiaś się proponowane miejscowości oraz ostatnio wyszukiwane miejs
 ### Załącznik
 screen lub filmik
 
-Przykład zgłoszenia jira
+#### Przykład zgłoszenia jira:
 
 ![Alt text](zg%C5%82oszenie.png)
 
@@ -41,7 +41,7 @@ Przykład zgłoszenia jira
 
 ### Tytuł 
 
-Brak możliwości wyszukania trasy w aplikacji portal pasażera
+Brak możliwości wyszukania trasy w aplikacji Portal Pasażera
 
 ### Priorytet
 
